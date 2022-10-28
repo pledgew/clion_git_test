@@ -8,6 +8,6 @@ int main() {
     std::cout << "Hello, git4!" << std::endl;
     std::cout << "master test" << std::endl;
     std::cout << "hot-fix test" << std::endl;
-    std::cout << "push test" << std::endl;
+    std::cout << "push test1" << std::endl;
     return 0;
 }
